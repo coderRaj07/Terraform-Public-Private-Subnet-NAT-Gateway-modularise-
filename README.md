@@ -1,7 +1,3 @@
-Certainly! Here's a simplified README.md for your Terraform project:
-
----
-
 # Terraform AWS VPC Setup
 
 This Terraform project creates an Amazon Web Services (AWS) environment using modularized infrastructure components. It's designed to establish a Virtual Private Cloud (VPC) with both public and private subnets, allowing for secure and controlled network access for your services.
@@ -51,11 +47,3 @@ Modify the variables and settings in each module to fit your specific use case. 
 ## Maintenance
 
 To make changes or update the infrastructure, edit the respective module's `.tf` files and run `terraform apply` after saving your changes.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-You can further customize this README.md to include any specific details, contact information, or additional instructions relevant to your project.
